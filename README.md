@@ -75,11 +75,6 @@ nn.Sequential(
 
 ### 2. Dataset Setup
 
-#### Download Dataset
-
-Download the **RFMiD (Retinal Fundus Multi-disease Image Dataset)** from the official source:
-
-https://figshare.com/articles/dataset/RFMiD_Retinal_Fundus_Multi-Disease_Image_Dataset/12574370
 
 After downloading, extract the dataset and organise it in the following structure:
 
@@ -89,7 +84,7 @@ data/
     ├── train/
     ├── val/
     ├── test/
-    └── labels/
+   
 ```
 
 ---
