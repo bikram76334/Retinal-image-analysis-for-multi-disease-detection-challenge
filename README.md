@@ -10,9 +10,8 @@
 
 ##  Resources
 
-- **Google Slides (Project Presentation):**  
-  
-[](https://docs.google.com/presentation/d/1ofTQg2fMlezXq0-pqgclbLFZaLi-vph1vLihPL9YliU/edit?usp=sharing)
+- **Google Slides (Project Presentation):**
+https://docs.google.com/presentation/d/1ofTQg2fMlezXq0-pqgclbLFZaLi-vph1vLihPL9YliU/edit?usp=sharing
  **Kaggle Notebook (Full Training & Evaluation):**  
 https://www.kaggle.com/code/bikramchapagain/retinaldiseaseclassificationusingefficientnet
 ---
